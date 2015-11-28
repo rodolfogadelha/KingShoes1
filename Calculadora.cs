@@ -32,15 +32,15 @@ namespace Calculadora
                 }
                 if (resul == 2)
                 {
-                    Console.WriteLine("Subtração = {0}", num1 - num2);
+                    Console.WriteLine("Subtracao = {0}", num1 - num2);
                 }
                 if (resul == 3)
                 {
-                    Console.WriteLine("Divisão = {0}", num1 / num2);
+                    Console.WriteLine("Divisao = {0}", num1 / num2);
                 }
                 if (resul == 4)
                 {
-                    Console.WriteLine("Multiplicação = {0}", num1 * num2);
+                    Console.WriteLine("Multiplicacao = {0}", num1 * num2);
                 }
                 Console.ReadLine();
                 Console.Clear();
